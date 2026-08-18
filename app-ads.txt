@@ -3,3 +3,8 @@ smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
+# AppLovin
+applovin.com, 25a71a39f60f64c6, DIRECT, 0802c0b0fb1604a7
+# Liftoff Monetize (Vungle)
+vungle.com, 5bd1fd1e-c15c-4f7f-8547-493e157eb01e, DIRECT, e21798ec4e1f72a4
+liftoff.io, 5bd1fd1e-c15c-4f7f-8547-493e157eb01e, DIRECT, e21798ec4e1f72a4
