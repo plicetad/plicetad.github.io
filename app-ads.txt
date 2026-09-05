@@ -8,4 +8,4 @@ applovin.com, 25a71a39f60f64c6, DIRECT, 0802c0b0fb1604a7
 
 vungle.com, 5bd1fd1e-c15c-4f7f-8547-493e157eb01e, DIRECT, e21798ec4e1f72a4
 liftoff.io, 5bd1fd1e-c15c-4f7f-8547-493e157eb01e, DIRECT, e21798ec4e1f72a4
-facebook.com, 1358536802582497, DIRECT, c3e20eee3f780d68
+facebook.com, 1080177414566481, DIRECT, c3e20eee3f780d68
